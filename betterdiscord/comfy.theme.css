@@ -70,7 +70,7 @@
   --mention-color: #2A324F;
 
   /* Unread - Default value : #7289DA */
-  --unread-color: #2D3554;
+  --unread-color: #2A324F;
 
   /*  『 🔴 Mention colors in chat 』 */
 
@@ -78,7 +78,7 @@
   --mention-color-bar: #2A324F;
 
   /* Background - Default value : #C662621F */
-  --mention-color-background: #2D3554;
+  --mention-color-background: #2A324F;
 
   /* On hover - Default value : #C6626226 */
   --mention-color-hover: #2A324F;
