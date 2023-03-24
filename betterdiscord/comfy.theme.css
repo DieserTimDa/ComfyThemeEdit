@@ -67,21 +67,21 @@
   /* ═══════『 📜 Server/channel list 』═══════ */
 
   /* Mention - Default value : #F04747 */
-  --mention-color: #2A324F;
+  --mention-color: #2A2E43;
 
   /* Unread - Default value : #7289DA */
-  --unread-color: #2A324F;
+  --unread-color: #2A2E43;
 
   /*  『 🔴 Mention colors in chat 』 */
 
   /* Bar on the right - Default value : #C66262 */
-  --mention-color-bar: #2A324F;
+  --mention-color-bar: #2A2E43;
 
   /* Background - Default value : #C662621F */
-  --mention-color-background: #2A324F;
+  --mention-color-background: #2A2E43;
 
   /* On hover - Default value : #C6626226 */
-  --mention-color-hover: #2A324F;
+  --mention-color-hover: #2A2E43;
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
