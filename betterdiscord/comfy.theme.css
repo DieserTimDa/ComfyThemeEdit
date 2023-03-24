@@ -70,18 +70,18 @@
   --mention-color: #272A39;
 
   /* Unread - Default value : #7289DA */
-  --unread-color: #7289da;
+  --unread-color: #23242D;
 
   /*  『 🔴 Mention colors in chat 』 */
 
   /* Bar on the right - Default value : #C66262 */
-  --mention-color-bar: #c66262;
+  --mention-color-bar: #272A39;
 
   /* Background - Default value : #C662621F */
-  --mention-color-background: #c662621f;
+  --mention-color-background: #23242D;
 
   /* On hover - Default value : #C6626226 */
-  --mention-color-hover: #c6626226;
+  --mention-color-hover: #272A39;
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
